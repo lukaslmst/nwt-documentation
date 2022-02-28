@@ -7,7 +7,9 @@ ifndef::imagesdir[:imagesdir: images]
 :toc: left
 
 === Router konfigurieren im proxmoxx
-
+- Neue CT anlegen
+- IP - Adresse 10.9.8.253/29 und Gateway 255.255.255.192 vergeben
+- [red]#SSH Verbindung nicht möglich#
 
 === Erstellen eines Containers
 
