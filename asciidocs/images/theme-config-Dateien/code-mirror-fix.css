@@ -1,0 +1,3 @@
+.code-mirror-fix .CodeMirror {
+    height: inherit !important;
+}

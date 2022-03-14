@@ -1,0 +1,41 @@
+.dreisc-google-preview {
+    width: 600px;
+}
+
+.dreisc-google-preview a.title {
+    color: #1a0dab;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: arial,sans-serif;
+    line-height: 1.2;
+    display: block;
+}
+
+.dreisc-google-preview a.title:hover {
+    text-decoration: underline;
+}
+
+.dreisc-google-preview span.url {
+    color: #006621;
+    display: block;
+    font-size: 14px;
+}
+
+.dreisc-google-preview .desc {
+    color: #545454;
+    line-height: 1.4;
+    font-family: arial,sans-serif;
+}
+
+.dreisc-google-preview .ellipsis {
+    white-space: nowrap;
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -webkit-text-overflow: ellipsis;
+}
+
+.small-google-preview .x-fieldset-body > .x-component {
+    overflow-x: scroll;
+}

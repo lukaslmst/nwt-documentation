@@ -1,0 +1,13 @@
+.sprite-dreisc--book-question {
+    background: url('../images/icons/book-question.png') no-repeat !important;
+    width: 16px;
+}
+
+.sprite-dreisc--seo-professional-icon {
+     background: url('../images/icons/seo-professional-icon.png') no-repeat !important;
+     width: 16px;
+ }
+
+.has--bold-header .x-panel-header-text {
+    font-weight: bold !important;
+}
