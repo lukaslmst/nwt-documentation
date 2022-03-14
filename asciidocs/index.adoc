@@ -125,7 +125,21 @@ Ein Großteil der Arbeit konzentriert sich darauf,
 welche Verbesserungen zu den größten
 Leistungssteigerungen führen.
 
-====
+==== Security
+
+In der Sicherheitsstufe
+wird das Netzwerk vor böswilligen Hackern,
+unautorisierten Anwendern, sowie physischer
+und elektronischer Sabotage geschützt.
+Die Vertraulichkeit der Nutzerdaten
+wird gewährleistet, sollte das notwendig sein.
+Durch entsprechende Security-Systeme kann ein
+Netzwerk-Administrator ebenfalls kontrollieren,
+was ein individueller und autorisierter Anwender
+mit einem System tun kann.
+
+
+
 //Need this blank line after ifdef, don't know why...
 ifdef::backend-html5[]
 
