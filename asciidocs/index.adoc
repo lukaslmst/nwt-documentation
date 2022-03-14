@@ -65,9 +65,78 @@ Verbindung fehlgeschlagen (timeout ssh)
 :hide-uri-scheme:
 http://10.9.8.98/admin/index.php
 
-== F-C-A-P-S
+== FCAPS
 
 image::fcaps.png[300,300]
+
+=== Was ist FCAPS
+
+FCAPS ist ein Netzwerkmanagement-Framework, das von der International Organization for Standardization (ISO) entwickelt wurde.
+
+FCAPS unterteilt die spezifischen Ziele des Netzwerkmanagements in fünf Ebenen. Die fünf Stufen sind:
+
+* Fault-Management (F) oder Fehlermanagement
+* Configuration (C) oder Konfiguration
+* Accounting (A) oder Abrechnung, auch Zuteilung genannt
+* Performance (P) oder Geschwindigkeit
+* Security (S) oder Sicherheit
+
+==== Fault-Management
+Während der Phase des Fehlermanagements
+erkennen und beheben Administratoren
+Netzwerkprobleme. Mögliche zukünftige Probleme
+wurden ebenfalls identifiziert.
+Die Verantwortlichen ergreifen Maßnahmen,
+um sicherzustellen, dass sie nicht wieder
+auftauchen und zurückkehren. Durch den Einsatz
+von Fehlermanagement bleibt das Netzwerk in
+Betrieb und Ausfallzeiten werden minimiert.
+
+==== Configuration
+
+Bei der Verwaltung von Konfigurationen überwachen und steuern Administratoren Vorgänge.
+Er koordiniert Hardware- und Programmieränderungen.
+Es umfasst auch das Hinzufügen neuer Geräte
+und Programme, das Modifizieren vorhandener
+Systeme und Programme und das Entfernen veralteter
+Systeme und Programme. Die Geräteinventur
+findet auch auf Ebene C statt. Stellen Sie
+außerdem sicher, dass das Programm auf dem
+neuesten Stand gehalten wird.
+
+==== Accouting
+In der Abrechnungsphase,
+auch Allokation genannt, geht es um die optimale
+Zuteilung von Ressourcen, damit alle
+Netzwerknutzer gleichermaßen darauf zugreifen
+können. So werden bestehende Anlagen so effizient
+wie möglich genutzt und die Betriebskosten so
+gering wie möglich gehalten. Ebene A ist auch
+dafür verantwortlich, sicherzustellen, dass die
+Benutzer angemessen abgerechnet werden.
+
+==== Performance
+Performance Management verwaltet die
+Gesamtleistung des Netzwerks.
+Der Durchsatz wird maximiert,
+Engpässe werden vermieden und
+potenzielle Probleme werden erkannt.
+Ein Großteil der Arbeit konzentriert sich darauf,
+welche Verbesserungen zu den größten
+Leistungssteigerungen führen.
+
+==== Security
+
+In der Sicherheitsstufe
+wird das Netzwerk vor böswilligen Hackern,
+unautorisierten Anwendern, sowie physischer
+und elektronischer Sabotage geschützt.
+Die Vertraulichkeit der Nutzerdaten
+wird gewährleistet, sollte das notwendig sein.
+Durch entsprechende Security-Systeme kann ein
+Netzwerk-Administrator ebenfalls kontrollieren,
+was ein individueller und autorisierter Anwender
+mit einem System tun kann.
 
 
 
