@@ -138,7 +138,9 @@ Netzwerk-Administrator ebenfalls kontrollieren,
 was ein individueller und autorisierter Anwender
 mit einem System tun kann.
 
-
+=== Anwendung in unserem Fall
+==== Fault Management
+    Zweiten Pihole anlegen, um im Fall eines Ausfalls des Ersten ein Backup auf das das Netzwerk zurückgreifen kannn zu haben.
 
 //Need this blank line after ifdef, don't know why...
 ifdef::backend-html5[]
