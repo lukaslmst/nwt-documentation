@@ -1,4 +1,4 @@
-= NWT Documentation
+= NWT
 ifndef::imagesdir[:imagesdir: images]
 //:toc-placement!:  // prevents the generation of the doc at this position, so it can be printed afterwards
 :sourcedir: ../src/main/java
@@ -65,19 +65,6 @@ Verbindung fehlgeschlagen (timeout ssh)
 :hide-uri-scheme:
 http://10.9.8.98/admin/index.php
 
-== F-C-A-P-S
-
-image::fcaps.png[300,300]
-
-=== Fault Management
-
-=== Configuration Management
-
-=== Accounting
-
-=== Performance
-
-=== Security
 
 //Need this blank line after ifdef, don't know why...
 ifdef::backend-html5[]
@@ -88,5 +75,14 @@ ifdef::backend-html5[]
 
 == Pihole zu DNS Server machen
 
+== FCAPS Model
 
+=== Fault Management
 
+=== Configuration Management
+
+=== Accounting
+
+=== Performance
+
+=== Security
