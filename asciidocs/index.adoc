@@ -69,6 +69,17 @@ http://10.9.8.98/admin/index.php
 
 image::fcaps.png[300,300]
 
+=== Ausgangslage (unser Projekt)
+
+* privater IP-Adressen Bereich:
+`10.9.8.97 - 10.9.8.102`
+
+* Wer hat welche IP-Adresse
+
+** Router: `10.9.8.253`
+** Webserver: `10.9.8.97`
+** Pi-hole: `10.9.8.98`
+
 === Was ist FCAPS
 
 FCAPS ist ein Netzwerkmanagement-Framework, das von der International Organization for Standardization (ISO) entwickelt wurde.
