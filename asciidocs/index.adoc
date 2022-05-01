@@ -187,4 +187,4 @@ Unserer Vm (sa4) haben wir mittels ifconfig eine IP-Adresse vergeben.
 
 - Vergeben von Gateway und DNS Server (Pi-hole) auf der graphischen Oberfläche
 
-image::routing.png[]
+image::routing.PNG[]
