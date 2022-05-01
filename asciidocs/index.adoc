@@ -11,6 +11,12 @@ router : router root
 - IP - Adresse 10.9.8.253/29 und Gateway 255.255.255.192 vergeben
 - [red]#SSH Verbindung nicht möglich#
 
+- IP Forwarding erlaubt um Zugriff aufs äußere Internet zuzulassen
+[source, bash]
+----
+  sudo bash -c 'echo 1 > /proc/sys/net/ipv4/ip_forward'
+----
+
 === Erstellen eines Containers
 
 image::pic.png[]
@@ -172,8 +178,13 @@ ifdef::backend-html5[]
 
 Unserer Vm (sa4) haben wir mittels ifconfig eine IP-Adresse vergeben.
 
+[source, bash]
+----
 `$ ifconfig <interface_name> <ip_address> netmask <netmask_address>`
+----
 
-Jetzt können wir von der Vm auf das Pi-hole backend zugreifen und auch den Webserver besuchen und die index.html Seite anschauen.
+- Jetzt können wir von der Vm auf das Pi-hole backend zugreifen und auch den Webserver besuchen und die index.html Seite anschauen.
 
+- Vergeben von Gateway und DNS Server (Pi-hole) auf der graphischen Oberfläche
 
+image::routing.png[]
